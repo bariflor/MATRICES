@@ -29,3 +29,4 @@ function ejercicio4(n) {
   }
   imprimirMatriz(M);
 }
+ejercicio4(4);
